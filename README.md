@@ -1,4 +1,4 @@
-#Path-following Robocar Project
+# Line-following Robocar Project
 
 ## Overview
 The Robocar project is designed to create an autonomous vehicle that can navigate using computer vision techniques. The project utilizes a camera to detect black lines on the ground and adjusts the motor speeds accordingly to follow the path.
