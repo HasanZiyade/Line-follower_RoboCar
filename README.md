@@ -58,7 +58,7 @@ The robot follows the line using a control system:
 4. Visual feedback is provided through OpenCV windows
 
 ## Demo
-[<video src='https://youtu.be/oZ3vJQsgQos' width=180/>](https://youtu.be/oZ3vJQsgQos)
+https://youtu.be/oZ3vJQsgQos
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
